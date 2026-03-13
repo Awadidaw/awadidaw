@@ -16,14 +16,19 @@
 
 ---
 
-What i love to do:
-‎ 
+<div align="center">
+<b>WHAT I LOVE TO DO:</b>
+  
+  ‎ ‎ 
 
 🎨 Design Grafis
 
 👩🏻‍🎨 3D Design
 
 💻 UI/UX
+</div>
+
+ ‎ ‎ 
 
 ---
 
