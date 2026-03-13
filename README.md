@@ -1,4 +1,7 @@
-## Hi there 👋 tes
+## Hi there 👋 
+About me:
+I'am a vacation High School student, with Design major.
+
 
 <!--
 **Awadidaw/awadidaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
