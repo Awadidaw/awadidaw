@@ -1,17 +1,28 @@
-## `Meet me`
+<img width="2000" height="500" alt="AWADIDAW (1)" src="https://github.com/user-attachments/assets/f29559c9-7c9f-425b-881a-9b7b3e9ad627" />
+
+<hr>
+
 <div align="center">
 Hawa Zalka Habibah
 </div>
 
-About me:
+<hr>
 
-I'am a vacation High School student, with Design major.
+<div align="center">
+  -About Me-
+  
+  I'am a vacation High School student, with Design major.
+</div>
 
-what i love to do:
+---
 
-1. Design Grafis
-2. 3D Design
-3. UI/UX
+What i love to do:
+
+🎨 Design Grafis
+
+👩🏻‍🎨 3D Design
+
+💻 UI/UX
 
 
 <!--
