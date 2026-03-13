@@ -1,5 +1,8 @@
 ## Hi there 👋 
+![WhatsApp Image 2026-03-13 at 08 25 19](https://github.com/user-attachments/assets/65799e63-456d-47c4-9b77-f8729a4fb336)
+
 About me:
+
 I'am a vacation High School student, with Design major.
 
 
