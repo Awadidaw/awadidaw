@@ -1,17 +1,22 @@
 <img width="2000" height="500" alt="AWADIDAW (1)" src="https://github.com/user-attachments/assets/f29559c9-7c9f-425b-881a-9b7b3e9ad627" />
-
----
-
 <div align="center">
+
+## Hawa Zalka Habibah
+###### 👩🏻‍🎓 SMKS Kartini Batam - 11 Grade - Visual Comunication Design 
+
+ 
+---
+</div>
+<div align="center">
+  
   <b>-ABOUT ME-</b>
 
-  ‎ ‎ 
-  
-  I'am a vacation High School student, with Design major.
 
   My name is <b>Hawa</b>, but everyone call me <b>Awa</b>
 
   <b>Awadidaw</b> is my pen name that i use as watermark
+
+  i'am still a learn about design
 </div>
 
 ---
@@ -26,9 +31,7 @@
 👩🏻‍🎨 3D Design
 
 💻 UI/UX
-</div>
-
- ‎ ‎ 
+</div> ‎ ‎ 
 
 ---
 
