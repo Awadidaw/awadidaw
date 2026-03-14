@@ -22,9 +22,12 @@
 
 ---
 
-
+<div align="center">
 <b>WHAT I DO</b>
-  ‎ ‎ 
+ 
+ ‎ ‎ 
+
+
 
 🎨 Design Grafis
 
@@ -33,7 +36,7 @@
 🤳🏻 UI/UX
 
 💻 Coding (only html for now)
- ‎ ‎ 
+</div>
 
 ---
 
