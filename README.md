@@ -22,9 +22,8 @@
 
 ---
 
-<div align="center">
-<b>WHAT I LOVE TO DO:</b>
-  
+
+<b>WHAT I DO</b>
   ‎ ‎ 
 
 🎨 Design Grafis
@@ -34,15 +33,30 @@
 🤳🏻 UI/UX
 
 💻 Coding (only html for now)
-</div> ‎ ‎ 
+ ‎ ‎ 
 
 ---
 
 
-<b>NOTE</b>
+<b>WHAT I INTEREST WITH</b>
 ‎ 
+<ul>
+  <li>with how something working. like how an aplication work, how they made this movie/vidio, how to make this thing</li>
+  <li>world of technology</li>
+  <li>Coding</li>
+</ul>
 
-I'am interest with how something working. like how an aplication work, how they made this movie/vidio, how to make this thing. and i'am interest about world of technology
+---
+
+</div>
+<div align="center">
+"Rasa Penasaran adalah kompas yang selalu menunjukkan jalan menuju pengalaman baru" 
+
+"Curiosity is a compass that guides us toward new experiences"
+
+<b>-awadidaw-</b>
+
+</div>
 
 
 
