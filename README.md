@@ -3,7 +3,7 @@
 
 ## Hawa Zalka Habibah
 
-👩🏻‍🎓 SMKS Kartini Batam - 11 Grade - Visual Comunication Design 
+👩🏻‍🎓 SMKS Kartini Batam - 11 Grade - Visual Comunication Design
 
  
 ---
@@ -17,7 +17,7 @@
 
   <b>Awadidaw</b> is my pen name that i use as watermark
 
-  i'am still a learn about design
+  i'am still a learn about many kind of design
 </div>
 
 ---
@@ -31,7 +31,9 @@
 
 👩🏻‍🎨 3D Design
 
-💻 UI/UX
+🤳🏻 UI/UX
+
+💻 Coding (only html for now)
 </div> ‎ ‎ 
 
 ---
