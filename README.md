@@ -2,7 +2,8 @@
 <div align="center">
 
 ## Hawa Zalka Habibah
-###### 👩🏻‍🎓 SMKS Kartini Batam - 11 Grade - Visual Comunication Design 
+
+👩🏻‍🎓 SMKS Kartini Batam - 11 Grade - Visual Comunication Design 
 
  
 ---
